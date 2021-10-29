@@ -16,6 +16,7 @@ initializeDBConnection();
 
 const insertIntoDB = require("./routes/insertIntoDB.router");
 const quizzes = require("./routes/quizData.router");
+const leaderBoard = require("./routes/leaderBoard.router");
 
 
 
@@ -25,6 +26,7 @@ app.get('/', (req, res) => {
 
 app.use("/insert", insertIntoDB);
 app.use("/quiz", quizzes);
+app.use('/leaderBoard', leaderBoard)
 
 
 

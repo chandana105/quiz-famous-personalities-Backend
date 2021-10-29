@@ -1,12 +1,12 @@
 const quizList = [
     {
       // 1st quiz
-      quizName : "APJ ABDUL KALAM",
+      quizName : "A. P. J. ABDUL KALAM",
       questions : [
         {
           // 1st question
           questionNo: 1,
-          question : "What is the full name of A P J Abdul Kalam ?",
+          question : "What is the full name of A. P. J. Abdul Kalam?",
           choices : [
             {
               option : "Aabideen Parsa Jaban Abdul Kalam",
@@ -29,7 +29,7 @@ const quizList = [
         },
         {
           questionNo: 2,
-          question : "When and Where APJ Abdul Kalam was born?",
+          question : "When and Where A. P. J. Abdul Kalam was born?",
           choices : [
             {
               option : "15.10.1931 in Rameswaram",
@@ -52,7 +52,7 @@ const quizList = [
         },
          {
           questionNo: 3,
-          question : "How did APJ Abdul Kalam earn his first wages?",
+          question : "How did A. P. J. Abdul Kalam earn his first wages?",
           choices : [
             {
               option : "by selling tamerind seeds",
@@ -75,7 +75,7 @@ const quizList = [
         },
          {
           questionNo: 4,
-          question : "What is Dr APJ Abdul Kalam also known as?",
+          question : "What is Dr A. P. J. Abdul Kalam also known as?",
           choices : [
             {
               option : "People's prime Minister",
@@ -98,7 +98,7 @@ const quizList = [
         },
          {
           questionNo: 5,
-          question : "APJ Abdul Kalam was the _____th President of India.",
+          question : "A. P. J. Abdul Kalam was the _____th President of India.",
           choices : [
             {
               option : "13",
@@ -121,7 +121,7 @@ const quizList = [
         },
         {
           questionNo: 6,
-          question : "APJ Abdul Kalam collapsed while delivering a speech at which Institution ?",
+          question : "A. P. J. Abdul Kalam collapsed while delivering a speech at which Institution ?",
           choices : [
             {
               option : "Indian Institute of Technology, Kharagpur",
@@ -144,7 +144,7 @@ const quizList = [
         },
                 {
           questionNo: 7,
-          question : "APJ Abdul Kalam's birth anniversary is observed as _________________.",
+          question : "A. P. J. Abdul Kalam's birth anniversary is observed as _________________.",
           choices : [
             {
               option : "International Students' Day",
@@ -167,7 +167,7 @@ const quizList = [
         },
         {
           questionNo: 8,
-          question : "Which of the following is NOT a book of APJ Abdul Kalam ?",
+          question : "Which of the following is NOT a book of A. P. J. Abdul Kalam ?",
           choices : [
             {
               option : "Turning Points",
@@ -190,7 +190,7 @@ const quizList = [
         },
         {
           questionNo: 9,
-          question : "Name of the autobiography written by APJ Abdul Kalam ?", 
+          question : "Name of the autobiography written by A. P. J. Abdul Kalam ?", 
           choices : [
             {
               option : "My experiment with truth",
@@ -245,7 +245,7 @@ const quizList = [
           question : "When was Swami Vivekananda born?",
           choices : [
             {
-              option : "10th March1863",
+              option : "10th March,1863",
               isRight : false
             },
              {
